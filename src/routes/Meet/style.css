@@ -1,0 +1,17 @@
+.title-info h1 {
+    font-size: 48px;
+    font-weight: 700;
+    color: var(--color-second);
+  }
+  
+  .title-info h3 {
+    font-size: 24px;
+    font-weight: 700;
+    color: var(--color-third);
+  }
+  
+
+  
+.title {
+  margin: 30px 41px;
+}
